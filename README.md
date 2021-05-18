@@ -1,1 +1,3 @@
 # password-generator
+
+This application enables employees to generate random passwords. Additional features pending...
